@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0.1">
+
+  <category>
+    <pattern>HOLA</pattern>
+    <template>¡Hola! ¿En qué puedo ayudarte?</template>
+  </category>
+
+  <category>
+    <pattern>HOLA BOT</pattern>
+    <template>¡Hola! ¿Cómo estás?</template>
+  </category>
+
+  <category>
+    <pattern>QUIEN ERES</pattern>
+    <template>Soy un bot de asistencia programado para responder tus preguntas.</template>
+  </category>
+
+  <category>
+    <pattern>QUE ERES</pattern>
+    <template>Soy un bot creado con Python y AIML.</template>
+  </category>
+
+  <category>
+    <pattern>AYUDA</pattern>
+    <template>Claro, dime en qué necesitas ayuda.</template>
+  </category>
+
+  <category>
+    <pattern>ADIOS</pattern>
+    <template>¡Hasta luego! No dudes en volver si necesitas algo.</template>
+  </category>
+
+  <category>
+    <pattern>COMO ESTA EL CLIMA</pattern>
+    <template>No tengo acceso al clima, pero te recomiendo que consultes un sitio especializado.</template>
+  </category>
+
+  <category>
+    <pattern>GRACIAS</pattern>
+    <template>¡De nada! Estoy aquí para ayudarte.</template>
+  </category>
+  
+</aiml>
